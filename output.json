@@ -1,1 +1,6 @@
-[{"outputType":{"type":"APK"},"apkData":{"type":"MAIN","splits":[],"versionCode":211008005,"versionName":"v1.00 (20211008.005)","enabled":true,"outputFile":"app-formal-debug.apk","fullName":"formalDebug","baseName":"formal-debug","dirName":""},"path":"app-formal-debug.apk","properties":{}}]
+{
+      "applicationId": "com.eets.broadcast",
+      "versionCode": "211008005",
+      "versionName": "v1.00 (20211008.005) pc62",
+      "outputFile": "app-pc62-release.apk"
+}
